@@ -1,0 +1,64 @@
+I"9	<h1 id="markdown-에디터로서의-노션-테스트">Markdown 에디터로서의 노션 테스트</h1>
+
+<p>마크다운에디터로서 노션이 얼마나 쓸만한지 테스트해보는 포스팅입니다.</p>
+
+<p>현재 이 포스팅은 모두 노션으로 쓰여졌습니다.</p>
+
+<ul>
+  <li>이러한 리스트들도 마크다운문법에 맞게 -를 타이핑하면 자동으로 생성이됩니다.</li>
+  <li>훨씬 보기는 쉬운데 이게 Export가 잘 될지는 미지수입니다.</li>
+  <li>일단 써보고는 있습니다.</li>
+</ul>
+
+<ol>
+  <li>번호로 적는 리스트도 잘되는군요</li>
+  <li>라이브로 보인다는게 강점이긴합니다.</li>
+</ol>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">print</span><span class="p">(</span><span class="s">"Code Snippet Test"</span><span class="p">)</span>
+<span class="k">print</span><span class="p">(</span><span class="s">"python Code역시 잘됩니다"</span><span class="p">)</span>
+</code></pre></div></div>
+
+<hr />
+
+<p>라인도 잘되는군요.</p>
+
+<p><em>별하나</em>는 이탤릭체</p>
+
+<p><strong>별두개</strong>는 볼드체</p>
+
+<p><strong><em>별세개</em></strong>는 이탤릭에 볼드체가 표시됩니다.</p>
+
+<p><code class="language-plaintext highlighter-rouge">강조표시</code> 도 잘되네요.</p>
+
+<p><del>물결표시하면취소선</del></p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />체크박스[ ]</li>
+</ul>
+
+<h1 id="샾1개-띄어쓰기할때-헤딩">샾1개 띄어쓰기할때 헤딩</h1>
+
+<h2 id="샾2개-띄어쓰기-할때-헤딩">샾2개 띄어쓰기 할때 헤딩</h2>
+
+<h3 id="샾3개-띄어쓰기할때-헤딩">샾3개 띄어쓰기할때 헤딩</h3>
+
+<ul>
+  <li>
+    <p>토글리스트는 &gt;요거 치고 스페이스파면됩니다(원래마크다운하고 다릅니다)</p>
+
+    <p>토글리스트 자녀1</p>
+
+    <p>토글리스트 자녀2</p>
+  </li>
+</ul>
+
+<blockquote>
+  <p>큰따옴표 쓰고 띄어쓰기하면 Quote Block이 나옵니다.(요거도다르네요)
+계속 이렇게 쓸수도 있네요.</p>
+</blockquote>
+
+<p>링크는 안되는건가?</p>
+
+<p>[링크테스트] <a href="https://blog.naver.com/comtionzero">https://blog.naver.com/comtionzer</a>o/</p>
+:ET
