@@ -12,11 +12,11 @@
 remote_theme : mmistakes/minimal-mistakes
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "누구에게나 시간이 동일하게 흐르지않는다"
+title                    : "누구에게나 시간이 동일하게 흐르지는 않는다"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ryoni Cho"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Ryoni Cho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Game Cient Developer/Amateur Magician"
+  bio              : "Game Cient Developer\Amateur Magician"
   location         : "Seoul/Korea"
   email            : "carpinus0@gmail.com"
   links:
