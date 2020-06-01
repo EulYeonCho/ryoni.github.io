@@ -1,7 +1,7 @@
 ---
 title: "github 블로그 첫 포스팅"
 date: 2020-06-01 15:48:00 +0900
-categories: jekyll update
+categories: Development
 ---
 
 깃허브블로그에 jekyll을 활용한 블로그 포스팅 테스트입니다. `마크다운문법`을 활용해 좀 더 정돈된

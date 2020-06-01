@@ -1,4 +1,13 @@
-# Markdown 에디터로서의 노션 테스트
+---
+title: "Markdown 에디터로서의 노션 테스트"
+date: 2020-06-01 22:45:00 +0900
+categories: Development
+tag: 
+- Notion
+- Markdown 
+---
+
+
 
 마크다운에디터로서 노션이 얼마나 쓸만한지 테스트해보는 포스팅입니다.
 

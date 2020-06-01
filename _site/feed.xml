@@ -1,23 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-01T22:26:37+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">누구에게나 시간이 동일하게 흐르지는 않는다</title><subtitle>Tech and Life Blog</subtitle><author><name>Ryoni Cho</name><email>carpinus0@gmail.com</email></author><entry><title type="html">github 블로그 첫 포스팅</title><link href="http://localhost:4000/jekyll/update/first-post/" rel="alternate" type="text/html" title="github 블로그 첫 포스팅" /><published>2020-06-01T15:48:00+09:00</published><updated>2020-06-01T15:48:00+09:00</updated><id>http://localhost:4000/jekyll/update/first-post</id><content type="html" xml:base="http://localhost:4000/jekyll/update/first-post/">&lt;p&gt;깃허브블로그에 jekyll을 활용한 블로그 포스팅 테스트입니다. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;마크다운문법&lt;/code&gt;을 활용해 좀 더 정돈된
-글을 쓸수있습니다. 일단 테스트삼아 올려봅니다.&lt;/p&gt;
-
-&lt;p&gt;익숙해지는데 조금 시간이 걸리겠지만, 한번 사용해보기로!!&lt;/p&gt;
-
-&lt;p&gt;코드블록은 요렇게 사용한다.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-02T01:15:46+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">누구에게나 시간이 동일하게 흐르지는 않는다</title><subtitle>Tech and Life Blog</subtitle><author><name>Ryoni Cho</name><email>carpinus0@gmail.com</email></author><entry><title type="html">[Covid19] 상상하는 그대로 그려보고싶다.</title><link href="http://localhost:4000/arts/drawing-thought/" rel="alternate" type="text/html" title="[Covid19] 상상하는 그대로 그려보고싶다." /><published>2020-06-02T00:56:00+09:00</published><updated>2020-06-02T00:56:00+09:00</updated><id>http://localhost:4000/arts/drawing-thought</id><content type="html" xml:base="http://localhost:4000/arts/drawing-thought/">&lt;h3 id=&quot;코로나19가-빨리-끝나길-바라며&quot;&gt;코로나19가 빨리 끝나길 바라며&lt;br /&gt;&lt;/h3&gt;
 
 &lt;hr /&gt;
 
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello Github Blog&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/covid19.PNG&quot; alt=&quot;GetLostCovid19&quot; /&gt;&lt;/p&gt;
 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;프로크리에이트로 작업&lt;/li&gt;
+  &lt;li&gt;클래스101 수업하나를 들으면서 작업한결과물&lt;/li&gt;
+  &lt;li&gt;좀 다른느낌을 주고싶어서 여러가지를 넣어봤다&lt;/li&gt;
+  &lt;li&gt;마스크 좀 그만쓰고 싶다.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;그림그리기는 내 가장 오래된 취미인데, 가장 자신없는 취미이기도하다.
+항상 원패턴으로 얼굴만 그리면서 자아도취에 빠지던 그런 아이였다.
+좀더 스토리에 집중하면서 다양하게 그리는 연습을 했다면.
+더 좋은 그림을 그릴수있지않았을까&lt;/p&gt;
 
-&lt;p&gt;마크다운에 익숙해져야 편하게 쓰긴하겠네요!
-&lt;a href=&quot;https://nolboo.kim/blog/2013/09/07/john-gruber-markdown/&quot;&gt;존크루버 마크다운번역페이지&lt;/a&gt;를 참고해서 공부가 필요!&lt;/p&gt;</content><author><name>Ryoni Cho</name><email>carpinus0@gmail.com</email></author><summary type="html">깃허브블로그에 jekyll을 활용한 블로그 포스팅 테스트입니다. 마크다운문법을 활용해 좀 더 정돈된 글을 쓸수있습니다. 일단 테스트삼아 올려봅니다.</summary></entry><entry><title type="html">Markdown Test</title><link href="http://localhost:4000/markdown-test/" rel="alternate" type="text/html" title="Markdown Test" /><published>2020-06-01T00:00:00+09:00</published><updated>2020-06-01T00:00:00+09:00</updated><id>http://localhost:4000/markdown-test</id><content type="html" xml:base="http://localhost:4000/markdown-test/">&lt;h1 id=&quot;markdown-에디터로서의-노션-테스트&quot;&gt;Markdown 에디터로서의 노션 테스트&lt;/h1&gt;
-
-&lt;p&gt;마크다운에디터로서 노션이 얼마나 쓸만한지 테스트해보는 포스팅입니다.&lt;/p&gt;
+&lt;p&gt;그래도 지금이라도 즐겁게 그릴수있으면 만족한다.&lt;/p&gt;</content><author><name>Ryoni Cho</name><email>carpinus0@gmail.com</email></author><category term="Procreate" /><category term="Drawing" /><summary type="html">코로나19가 빨리 끝나길 바라며</summary></entry><entry><title type="html">Markdown 에디터로서의 노션 테스트</title><link href="http://localhost:4000/development/markdown-test/" rel="alternate" type="text/html" title="Markdown 에디터로서의 노션 테스트" /><published>2020-06-01T22:45:00+09:00</published><updated>2020-06-01T22:45:00+09:00</updated><id>http://localhost:4000/development/markdown-test</id><content type="html" xml:base="http://localhost:4000/development/markdown-test/">&lt;p&gt;마크다운에디터로서 노션이 얼마나 쓸만한지 테스트해보는 포스팅입니다.&lt;/p&gt;
 
 &lt;p&gt;현재 이 포스팅은 모두 노션으로 쓰여졌습니다.&lt;/p&gt;
 
@@ -77,4 +76,21 @@
 
 &lt;p&gt;링크는 안되는건가?&lt;/p&gt;
 
-&lt;p&gt;[링크테스트] &lt;a href=&quot;https://blog.naver.com/comtionzero&quot;&gt;https://blog.naver.com/comtionzer&lt;/a&gt;o/&lt;/p&gt;</content><author><name>Ryoni Cho</name><email>carpinus0@gmail.com</email></author><summary type="html">Markdown 에디터로서의 노션 테스트</summary></entry></feed>
+&lt;p&gt;[링크테스트] &lt;a href=&quot;https://blog.naver.com/comtionzero&quot;&gt;https://blog.naver.com/comtionzer&lt;/a&gt;o/&lt;/p&gt;</content><author><name>Ryoni Cho</name><email>carpinus0@gmail.com</email></author><category term="Notion" /><category term="Markdown" /><summary type="html">마크다운에디터로서 노션이 얼마나 쓸만한지 테스트해보는 포스팅입니다.</summary></entry><entry><title type="html">github 블로그 첫 포스팅</title><link href="http://localhost:4000/development/first-post/" rel="alternate" type="text/html" title="github 블로그 첫 포스팅" /><published>2020-06-01T15:48:00+09:00</published><updated>2020-06-01T15:48:00+09:00</updated><id>http://localhost:4000/development/first-post</id><content type="html" xml:base="http://localhost:4000/development/first-post/">&lt;p&gt;깃허브블로그에 jekyll을 활용한 블로그 포스팅 테스트입니다. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;마크다운문법&lt;/code&gt;을 활용해 좀 더 정돈된
+글을 쓸수있습니다. 일단 테스트삼아 올려봅니다.&lt;/p&gt;
+
+&lt;p&gt;익숙해지는데 조금 시간이 걸리겠지만, 한번 사용해보기로!!&lt;/p&gt;
+
+&lt;p&gt;코드블록은 요렇게 사용한다.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello Github Blog&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;마크다운에 익숙해져야 편하게 쓰긴하겠네요!
+&lt;a href=&quot;https://nolboo.kim/blog/2013/09/07/john-gruber-markdown/&quot;&gt;존크루버 마크다운번역페이지&lt;/a&gt;를 참고해서 공부가 필요!&lt;/p&gt;</content><author><name>Ryoni Cho</name><email>carpinus0@gmail.com</email></author><summary type="html">깃허브블로그에 jekyll을 활용한 블로그 포스팅 테스트입니다. 마크다운문법을 활용해 좀 더 정돈된 글을 쓸수있습니다. 일단 테스트삼아 올려봅니다.</summary></entry></feed>
