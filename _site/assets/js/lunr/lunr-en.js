@@ -122,7 +122,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-          <a class="site-logo" href="/"><img src="/assets/images/LOGO_Proto.PNG" alt=""></a>
+          <a class="site-logo" href="/"><img src="/assets/images/LOGO_Proto.png" alt=""></a>
         
         <a class="site-title" href="/">
           누구에게나 시간이 동일하게 흐르지는 않는다
