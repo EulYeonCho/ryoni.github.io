@@ -59,3 +59,4 @@ print("python Code역시 잘됩니다")
 링크는 안되는건가? 
 
 [링크테스트] [https://blog.naver.com/comtionzer](https://blog.naver.com/comtionzero)o/
+

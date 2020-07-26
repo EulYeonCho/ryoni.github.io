@@ -14,7 +14,7 @@ tag:
 
 ***
 
-![GetLostCovid19](/assets/images/covid19.PNG)
+![GetLostCovid19](/assets/images/posts/covid19.PNG)
 
 - 프로크리에이트로 작업
 - 클래스101 수업하나를 들으면서 작업한결과물

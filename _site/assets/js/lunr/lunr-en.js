@@ -122,7 +122,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-          <a class="site-logo" href="/"><img src="/assets/images/LOGO_Proto.png" alt=""></a>
+          <a class="site-logo" href="/"><img src="/assets/images/main_blog/LOGO_Proto_M.png" alt=""></a>
         
         <a class="site-title" href="/">
           누구에게나 시간이 동일하게 흐르지는 않는다
@@ -165,7 +165,7 @@
   
     <div class="author__avatar">
       
-        <img src="/assets/images/IMG_5814.JPG" alt="Ryoni Cho" itemprop="image">
+        <img src="/assets/images/main_blog/profile.jpg" alt="Ryoni Cho" itemprop="image">
       
     </div>
   
