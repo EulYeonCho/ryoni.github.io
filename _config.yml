@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Ryoni Cho"
-  avatar           : "assets/images/main_blog/profile.jpg"
+  avatar           : "assets/images/main_blog/Profile.jpg"
   bio              : "Game Client Developer\n\nAmateur Magician"
   location         : "Seoul/Korea"
   email            : "carpinus0@gmail.com"
