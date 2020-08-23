@@ -12,7 +12,7 @@
 #remote_theme : mmistakes/minimal-mistakes
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -207,7 +207,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -274,11 +274,22 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
+      author_profile: false
+      show_date: true
+      classes: wide
+      sidebar:
+        title: "카테고리"
+        nav: sidebar-list
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.2"
+        overlay_image: /assets/images/posts/coding.jpg
+        teaser: /assets/images/posts/coding.jpg
+      excerpt : ""
  # _pages
   - scope:
       path: ""
@@ -290,3 +301,6 @@ defaults:
       comments: false
       share: true
       related: false
+      sidebar:
+        title: "카테고리"
+        nav: sidebar-list

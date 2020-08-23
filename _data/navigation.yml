@@ -2,11 +2,35 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tag"
-    url: /tags/
-  - title: "Arts"
-    url: /categories/Arts/
+  - title: "Development"
+    url: /categories/Development/
+  - title: "Life"
+    url: /categories/life/
+
   # - title: "Sitemap"
   #   url: /sitemap/
+sidebar-list:
+  - title: "개발관련"
+    children:
+      - title: "-개인프로젝트"
+        url: /categories/PrivateProject
+      - title: "-Unity"
+        url: /categories/unity
+      - title: "-C#"
+        url: /categories/csharp
+      - title: "-Python"
+        url: /categories/python
+      - title: "-Android"
+        url: /categories/android
+      - title: "-iOS"
+        url: /categories/ios
+      - title: "-etc"
+        url: /categories/etc
+  - title: "일상"
+    children:
+      - title: "-에세이"
+        url: /categories/essay
+      - title: "-그림그리기"
+        url: /categories/arts
+  
+ 
