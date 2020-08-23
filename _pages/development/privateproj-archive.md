@@ -2,8 +2,8 @@
 header:
     overlay_color: "#000"
     overlay_filter: "0.5"
-    overlay_image: /assets/images/posts/Tinyisland_game.png 
-    teaser: /assets/images/posts/Tinyisland_game.png
+    overlay_image: /assets/images/posts/TinyIsland_game.png
+    teaser: /assets/images/posts/TinyIsland_game.png
 
 title: "혼자 개발하는 프로젝트를 위한 공간"
 excerpt: "퇴근후 조금씩 작업중인 개인프로젝트 개발사항에 대한 기록"
