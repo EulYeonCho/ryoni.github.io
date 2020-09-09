@@ -26,11 +26,11 @@ tag:
 
 ---
 
-![/assets/images/posts/NotionToGithubPage/_2020-09-09__1.21.18.png](/assets/images/posts/NotionToGithubPage/_2020-09-09__1.21.18.png){: .align-center}
+![/assets/images/posts/NotionToGithubPage/_2020-09-09__12118.png](/assets/images/posts/NotionToGithubPage/_2020-09-09__12118.png){: .align-center}
 
 노션페이지에서 옵션을 누르면 Markdown 포맷으로 익스포트가 가능하다. 
 
-![/assets/images/posts/NotionToGithubPage/_2020-09-09__1.39.24.png](/assets/images/posts/NotionToGithubPage/_2020-09-09__1.39.24.png){: .align-center}
+![/assets/images/posts/NotionToGithubPage/_2020-09-09__13924.png](/assets/images/posts/NotionToGithubPage/_2020-09-09__13924.png){: .align-center}
 
 - 익스포트시 압축파일형태로 파일을 얻을수있는데, 이 압축파일을 열어보면 md파일과 포스트에 쓰였던 이미지등의 리소스파일이 md파일과 동일한 이름의 폴더안에 들어있다.
 - md파일에서의 이미지는 이 폴더경로로 연결되어있다.
