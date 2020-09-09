@@ -24,6 +24,8 @@ sidebar-list:
         url: /categories/android
       - title: "-iOS"
         url: /categories/ios
+      - title: "-Machine Learning"
+        url: /categories/ml
       - title: "-etc"
         url: /categories/etc
   - title: "일상"
