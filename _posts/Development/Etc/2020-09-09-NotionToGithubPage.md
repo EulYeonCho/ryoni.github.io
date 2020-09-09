@@ -26,7 +26,7 @@ tag:
 
 ---
 
-![/assets/images/posts/notiontogithubpage/1.png](/assets/images/posts/notiontogithubpage/1.png){: .align-center}
+![/assets/images/posts/notiontogithubpage/1.png](/assets/images/posts/notiontogithubpage/1.png)
 
 노션페이지에서 옵션을 누르면 Markdown 포맷으로 익스포트가 가능하다. 
 
