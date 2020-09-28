@@ -11,6 +11,7 @@ excerpt: "머신러닝 기초(1)"
 categories: 
 - Development
 - machineLearning
+- ml
 tag: 
 - ML
 
