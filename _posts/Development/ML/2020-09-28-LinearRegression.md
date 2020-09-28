@@ -24,7 +24,7 @@ tag:
 
 ---
 
-![/assets/images/posts/2020-09-28-LinearRegression/_2020-09-28__7.33.38.png](/assets/images/posts/2020-09-28-LinearRegression/_2020-09-28__7.33.38.png)
+![/assets/images/posts/2020-09-28-LinearRegression/table.png](/assets/images/posts/2020-09-28-LinearRegression/table.png)
 
 ---
 
