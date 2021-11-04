@@ -68,8 +68,9 @@ def ModifiedMarkDownFile():
         for line in lines:
             if line.startswith('!['):
                 path=ExportFilePath(line)
-                break
-        n=n.replace(path,'/assets/images/posts/{}'.format(newfolderName))
+                n=n.replace(path,'/assets/images/posts/{}'.format(newfolderName))
+                #break
+        
     
 
     #Write Modified MarkDown
@@ -81,9 +82,12 @@ def ModifiedMarkDownFile():
     os.remove(notionMarkDownFile)
 
     #Move Resouces file and Remove Folder
-    print("SRC:"+os.curdir+'/{}'.format(notionMarkDownFolder))
-    print("DES:"+os.curdir+'/assets/images/posts/{}'.format(newfolderName))
-    shutil.move(os.curdir+'/{}'.format(notionMarkDownFolder),os.curdir+'/assets/images/posts/{}'.format(newfolderName))
+  
+    if os.path.exists(notionMarkDownFolder):
+        print("Move Resouces file and Remove Folder")
+        print("SRC:"+os.curdir+'/{}'.format(notionMarkDownFolder))
+        print("DES:"+os.curdir+'/assets/images/posts/{}'.format(newfolderName))
+        shutil.move(os.curdir+'/{}'.format(notionMarkDownFolder),os.curdir+'/assets/images/posts/{}'.format(newfolderName))
    
 
 
