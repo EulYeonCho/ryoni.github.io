@@ -275,7 +275,9 @@ C Finish
 	- CancellationTokenSource ->이안에 token 이 들어있음. 
 	- 협력적 취소.(Cooperative Cancellation)
 
-- 예시소스코드 (Count라는 메소드를 실행하는 스레드를 취소해보기)
+
+예시소스코드 (Count라는 메소드를 실행하는 스레드를 취소해보기)
+
 ```c#
 using System;
 using System.Threading;
