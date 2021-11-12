@@ -1,6 +1,6 @@
 ---
 title: "C# 스터디 (3): 동시성(Concurrency)"
-date: 2021-10-29 14:53:00 +0900
+date: 2021-11-08 14:53:00 +0900
 header:
     overlay_color: "#000"
     overlay_filter: "0.5"
