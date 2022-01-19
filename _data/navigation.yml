@@ -10,10 +10,6 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 sidebar-list:
-  - title: "Project"
-    children:
-      - title: "고양이는 물을 싫어한다냥"
-        url: /categories/catwater
   - title: "개발관련"
     children:
       - title: "-개인프로젝트"
