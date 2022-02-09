@@ -1,6 +1,6 @@
 ---
 title: "개인용 Git Remote Repositary 구축기(1)"
-date: 2022-02-110 00:34:00 +0900
+date: 2022-02-10 00:34:00 +0900
 
   
 excerpt: "Google Drive를 활용한 Git Repositary"
