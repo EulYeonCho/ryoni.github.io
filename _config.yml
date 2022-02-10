@@ -290,6 +290,7 @@ defaults:
         overlay_image: /assets/images/posts/coding.jpg
         teaser: /assets/images/posts/coding.jpg
       excerpt : ""
+      sidebar_ads: true
  # _pages
   - scope:
       path: ""
@@ -304,3 +305,4 @@ defaults:
       sidebar:
         title: "카테고리"
         nav: sidebar-list
+      sidebar_ads: false
