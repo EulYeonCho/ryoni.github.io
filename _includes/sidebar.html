@@ -13,10 +13,11 @@
     {% endfor %}
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
+      {% if page.sidebar_ads %}
+        {% include GoogleAdsense.html %}
+      {% endif %}
     {% endif %}
-    {% if page.sidebar_ads %}
-      {% include GoogleAdsense.html %}
-    {% endif %}
+    
   {% endif %}
   </div>
 {% endif %}
